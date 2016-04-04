@@ -22,7 +22,7 @@ define Package/opentracker
  SECTION:=app
  CATEGORY:=Application
  TITLE:=open and free bittorrent tracker project
- URL:=http://erdgeist.org/arts/software/opentracker/
+ # URL:=http://erdgeist.org/arts/software/opentracker/
  DEPENDS:=+libowfat +zlib +libpthread
 endef
 
